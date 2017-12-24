@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For Tween
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tween	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+guncelle	KEYWORD2
+baslat	KEYWORD2
+bittiMi	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DOGRUSAL	LITERAL1
+YUMUSAK_GIRIS	LITERAL1
+YUMUSAK_CIKIS	LITERAL1
+YUMUSAK_GIRIS_SEKME	LITERAL1
+YUMUSAK_CIKIS_SEKME	LITERAL1
+YUMUSAK_GIRIS_GERI	LITERAL1
+YUMUSAK_CIKIS_GERI	LITERAL1
+YUMUSAK_GIRIS_ELASTIK	LITERAL1
+YUMUSAK_CIKIS_ELASTIK	LITERAL1
+YUMUSAK_GIRIS_CIKIS	LITERAL1
+YUMUSAK_CIKIS_GIRIS	LITERAL1
+YUMUSAK_CIKIS_GIRIS_ELASTIK	LITERAL1
+YUMUSAK_GIRIS_CIKIS_ELASTIK	LITERAL1
