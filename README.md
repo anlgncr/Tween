@@ -1,2 +1,2 @@
 # Tween
-Tween class for arduino
+Arduino projeleriniz için animasyon kütüphanesi.
