@@ -14,7 +14,7 @@ void setup() {
 
 void loop() {
   if(!animasyon.bittiMi()){ // animasyon bitmediyse güncellemeye devam et
-    animasyon.guncelle(); // animasyonun çalışabilmesi için güncellennesi gerekiyor
+    animasyon.guncelle(); // animasyonun çalışabilmesi için güncellenmesi gerekiyor
     Serial.println(degisken); //Seri porta değişkenin değerini yaz
   }
 }
